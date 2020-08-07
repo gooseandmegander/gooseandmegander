@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Megan (she/her). Nice to meet virtually meet you!
+My name is Megan (she/her). Nice to virtually meet you!
 
 I'm an interior architecture student turned software developer. I :heart: building, learning, and collaborating.
 And, for the time being, I am open to new opportunities!
