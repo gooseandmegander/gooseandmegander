@@ -1,16 +1,27 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**gooseandmegander/gooseandmegander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Megan (she/her). Nice to meet virtually meet you!
 
-Here are some ideas to get you started:
+I'm an interior architecture student turned software developer. I :heart: building, learning, and collaborating.
+And, for the time being, I am open to new opportunities!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Much of my GitHub is older projects from my bootcamp days at Lambda School. I'm in the process of planning some updates as well as new projects.
+
+NOTE: You may have noticed my contribution chart is not very green. :( My contributions from my previous employer do not show because I was on a GH account they provided me. I've also been _hella_ studying for the AWS Cloud Practitioner Exam and writing less code. I'm also human and promise I do actually like writing code. :)
+
+## 🌱 I’m currently interested in...
+
+everything, but to be specific:
+
+- cloud technology
+- design systems
+- accessibility
+- networking
+
+## 📫 How to reach me:
+
+email: meganawilliamson@gmail.com
+
+linkedin: https://www.linkedin.com/in/megan-williamson/
+
+website: coming soon!
